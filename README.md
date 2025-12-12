@@ -2,6 +2,15 @@
 Hello, its Alex! I added a simple beta guesser for the ipynb. Here are my results so far:
 ![current score](images/localscore.png)
 
+```
+pip install playwright
+python -m playwright install chromium
+sudo apt-get update
+sudo apt-get install -y libnspr4 libnss3
+python -m playwright install-deps
+
+```
+
 # UChicago Wordle Tournament
 
 Welcome... We're testing stuff out right now so there isn't much to say.
