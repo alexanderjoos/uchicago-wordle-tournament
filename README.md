@@ -2,6 +2,7 @@
 Hello, its Alex! I added a simple beta guesser for the ipynb. Here are my results so far:
 ![current score](images/localscore.png)
 
+I added a script playwright.ipynb to use playwright to steal the strategy from this website: https://sadmoody.github.io/unwordle/
 ```
 pip install playwright
 python -m playwright install chromium
