@@ -1,3 +1,7 @@
+## My fork
+Hello, its Alex! I added a simple beta guesser for the ipynb. Here are my results so far:
+![current score](images/localscore.png)
+
 # UChicago Wordle Tournament
 
 Welcome... We're testing stuff out right now so there isn't much to say.
